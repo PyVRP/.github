@@ -1,4 +1,4 @@
-![PyVRP logo](profile/logo.svg)
+![PyVRP logo](./logo.svg)
 
 The PyVRP project develops open-source tools to efficiently solve vehicle routing problems (VRPs) using Python.
 These include:
